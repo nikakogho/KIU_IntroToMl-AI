@@ -14,3 +14,7 @@ Simple Dijkstra to check for neighboring people then their neighborings etc
 
 At first we give logic that each person is either knight or knave but not both
 Then we say for each statement that either person saying it is a knight and statement is true, or person is knave and statement is false
+
+## Shopping
+
+Parsed csv to get evidence and labels, then trained and tested and got 38% sensitivity and 91% specificity
