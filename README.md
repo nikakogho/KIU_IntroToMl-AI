@@ -24,3 +24,14 @@ Parsed csv to get evidence and labels, then trained and tested and got 38% sensi
 AI plays against itself with Q learning, always chooses either best estimate value or random value if epsilon is enabled and random number on that turn is less than epsilon
 
 Eventually AI is good enough I can't beat it
+
+## Traffic
+
+Used a convolutional neural network that
+1. convolves the inputs through 32 filters
+2. maxpools them on 2x2
+3. convolves on 64 filters
+4. again maxpools on 2x2
+5. flattens the network
+6. makes a dense connection to 128 nodes
+7. gives output with softmax activation
