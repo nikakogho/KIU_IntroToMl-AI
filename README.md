@@ -18,3 +18,9 @@ Then we say for each statement that either person saying it is a knight and stat
 ## Shopping
 
 Parsed csv to get evidence and labels, then trained and tested and got 38% sensitivity and 91% specificity
+
+## Nim
+
+AI plays against itself with Q learning, always chooses either best estimate value or random value if epsilon is enabled and random number on that turn is less than epsilon
+
+Eventually AI is good enough I can't beat it
