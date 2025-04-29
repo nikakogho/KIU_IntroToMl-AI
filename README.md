@@ -35,3 +35,8 @@ Used a convolutional neural network that
 5. flattens the network
 6. makes a dense connection to 128 nodes
 7. gives output with softmax activation
+
+## Parser
+
+Came up with those non-terminals after some painful experimentation.
+Made sure nonsensical sentences like "Armchair on the sat Holmes." fail, while all 10 samples pass
