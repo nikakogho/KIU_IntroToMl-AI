@@ -40,3 +40,12 @@ Used a convolutional neural network that
 
 Came up with those non-terminals after some painful experimentation.
 Made sure nonsensical sentences like "Armchair on the sat Holmes." fail, while all 10 samples pass
+
+## Attention
+
+``` python
+tokenizer = AutoTokenizer.from_pretrained(MODEL)
+inputs = tokenizer(text, return_tensors="tf")
+```
+
+These lines give input that has a list of numbers corresponding to tokens embedded in a numpy array, so we walk over it and find where we get the mask token id (103). Then we simply visualize for each layer's each head
