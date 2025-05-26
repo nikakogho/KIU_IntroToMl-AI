@@ -49,3 +49,7 @@ inputs = tokenizer(text, return_tensors="tf")
 ```
 
 These lines give input that has a list of numbers corresponding to tokens embedded in a numpy array, so we walk over it and find where we get the mask token id (103). Then we simply visualize for each layer's each head
+
+## MicroGrad
+
+Colab notebook [here](https://colab.research.google.com/drive/1-tzBU_h1tFsNMU2RLcOq61i17hsW73KO?usp=sharing)
