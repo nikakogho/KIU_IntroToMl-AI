@@ -53,3 +53,7 @@ These lines give input that has a list of numbers corresponding to tokens embedd
 ## MicroGrad
 
 Colab notebook [here](https://colab.research.google.com/drive/1-tzBU_h1tFsNMU2RLcOq61i17hsW73KO?usp=sharing)
+
+## Trigram
+
+Colab notebook [here](https://colab.research.google.com/drive/1a-6hTMm0nnKJGEY2tJAVt1ZZKZiQYvuf?usp=sharing)
