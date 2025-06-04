@@ -57,3 +57,7 @@ Colab notebook [here](https://colab.research.google.com/drive/1-tzBU_h1tFsNMU2RL
 ## Trigram
 
 Colab notebook [here](https://colab.research.google.com/drive/1a-6hTMm0nnKJGEY2tJAVt1ZZKZiQYvuf?usp=sharing)
+
+## Multi-Layer Perceptron
+
+Colab notebook [here](https://colab.research.google.com/drive/13TxU4KyKDUHh7LiE0AVZfRxdQwL83cK8)
