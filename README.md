@@ -61,3 +61,7 @@ Colab notebook [here](https://colab.research.google.com/drive/1a-6hTMm0nnKJGEY2t
 ## Multi-Layer Perceptron
 
 Colab notebook [here](https://colab.research.google.com/drive/13TxU4KyKDUHh7LiE0AVZfRxdQwL83cK8)
+
+## Backprop Ninja
+
+Colab notebook [here](https://colab.research.google.com/drive/1eNBm4mhBWu220zd7atxkQmQtag0IIGoq?usp=sharing)
